@@ -32,6 +32,10 @@
 
 **Linux**
 
+[Coursebook](https://github.com/illinois-cs241/coursebook) (PDF, EPUB)
+
+[Operating System from 0 to 1](https://github.com/tuhdo/os01) (PDF)
+
 [Beyond Linux From Scratch Book](https://www.linuxfromscratch.org/blfs/download.html) (HTML)
 
 [Debian Handbook](https://debian-handbook.info/) (~~PDF~~, EPUB, MOBI)
@@ -39,12 +43,6 @@
 [Linux From Scratch](https://www.linuxfromscratch.org/lfs/download.html) (PDF, HTML)
 
 [The Linux Command Line & Adventures with the Linux Command Line](https://linuxcommand.org/tlcl.php) (PDF)
-
-## Computer Engineering
-
-[Coursebook](https://github.com/illinois-cs241/coursebook) (PDF, EPUB)
-
-[Operating System from 0 to 1](https://github.com/tuhdo/os01) (PDF)
 
 ## Digital Art and Design
 
@@ -56,6 +54,6 @@
 
 [Flavio Copes](https://flaviocopes.com/) (LARAVEL, PHP, SQL, NODE.JS, ETC.)
 
-[Secure Programming HOWTO](https://dwheeler.com/secure-programs/)(PDF)
+[Secure Programming HOWTO](https://dwheeler.com/secure-programs/) (PDF)
 
 [The Linux Documentation Project](https://tldp.org/guides.html) (BASH, LINUX ADMINISTRATION, ETC.)
