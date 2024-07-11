@@ -14,23 +14,37 @@
 
 [Lua Quick Reference](https://orbitalquark.github.io/lua-quick-reference/) (PDF)
 
+**Python**
 
+[A Byte of Python](https://github.com/swaroopch/byte-of-python) (PDF, EPUB)
+
+[A Guide to Python's Magic Method](https://github.com/RafeKettler/magicmethods) (PDF)
+
+[Biopython](https://biopython.org/) (PDF)
+
+[Making Games with Python & Pygame](https://inventwithpython.com/pygame/) (PDF)
+
+[Python Programming Exercises, Gently Explained](https://inventwithpython.com/pythongently/) (PDF)
+
+[Think Python](https://greenteapress.com/wp/think-python-2e/) (PDF, HTML)
 
 # Operating System
 
 **Linux**
 
+[Beyond Linux From Scratch Book](https://www.linuxfromscratch.org/blfs/download.html) (HTML)
+
+[Debian Handbook](https://debian-handbook.info/) (~~PDF~~, EPUB, MOBI)
+
+[Linux From Scratch](https://www.linuxfromscratch.org/lfs/download.html) (PDF, HTML)
+
 [The Linux Command Line & Adventures with the Linux Command Line](https://linuxcommand.org/tlcl.php) (PDF)
 
-[Operating Systems from 0 to 1](https://github.com/tuhdo/os01) (PDF)
-
-**Computer Engineering**
+# Computer Engineering
 
 [Coursebook](https://github.com/illinois-cs241/coursebook) (PDF, EPUB)
 
 [Operating System from 0 to 1](https://github.com/tuhdo/os01) (PDF)
-
-
 
 # Digital Art and Design
 
@@ -38,8 +52,10 @@
 
 [AutoCAD Keyboard Shortcuts](https://www.autodesk.com/shortcuts/autocad) (PDF)
 
-
 # Miscellaneous
-[Secure Programming HOWTO](https://dwheeler.com/secure-programs/)
 
-[Flavio Copes](https://flaviocopes.com/)
+[Flavio Copes](https://flaviocopes.com/) (PDF, EPUB)
+
+[Secure Programming HOWTO](https://dwheeler.com/secure-programs/)(PDF)
+
+[The Linux Documentation Project](https://tldp.org/guides.html) (PDF)
