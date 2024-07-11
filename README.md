@@ -1,3 +1,5 @@
+**NOTE:** *I do not own any of these ebook(electronic book). **Original** links were used as long as possible to give acknowledgment to their rightful creators.*
+
 ## Programming/Code Books
 
 **C++**
