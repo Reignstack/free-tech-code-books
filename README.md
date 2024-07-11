@@ -1,4 +1,4 @@
-# C++
+**C++**
 [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) (PDF)
 
 # Digital Art and Design
