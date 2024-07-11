@@ -32,11 +32,11 @@
 
 ## Operating System
 
-**Linux**
-
 [Coursebook](https://github.com/illinois-cs241/coursebook) (PDF, EPUB)
 
 [Operating System from 0 to 1](https://github.com/tuhdo/os01) (PDF)
+
+**Linux**
 
 [Beyond Linux From Scratch Book](https://www.linuxfromscratch.org/blfs/download.html) (HTML)
 
