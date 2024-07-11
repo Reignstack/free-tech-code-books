@@ -1,4 +1,4 @@
-# free-coding-books
+# free technology and coding books
 An ongoing list of free coding/programming books and tech related books linked using their respective official websites.
 
 # C++
